@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:text="@string/swipe_msg"
+        android:id="@+id/swipe_label"/>
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/album_pager"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/swipe_label"
+        android:layout_height="match_parent" />
+</RelativeLayout>
+
+
+
+

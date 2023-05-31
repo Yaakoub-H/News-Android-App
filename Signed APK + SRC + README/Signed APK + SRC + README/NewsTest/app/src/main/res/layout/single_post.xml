@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textAlignment="center"
+        android:id="@+id/post_title"
+        android:textSize="30sp"
+        android:text="{Title}" />
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textAlignment="center"
+        android:id="@+id/post_date"
+        android:textSize="22sp"
+        android:layout_below="@id/post_title"
+        android:layout_marginBottom="10dp"
+        android:text="{date}" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:scaleType="fitCenter"
+        android:layout_marginBottom="20dp"
+        android:layout_below="@id/post_date"
+        android:id="@+id/post_thumb"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/post_thumb">
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/post_content"
+            android:textSize="20sp"
+            android:text="@string/lorem"/>
+    </ScrollView>
+
+
+</RelativeLayout>

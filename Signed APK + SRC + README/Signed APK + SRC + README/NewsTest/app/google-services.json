@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739239505698",
+    "project_id": "contact-forms-aba55",
+    "storage_bucket": "contact-forms-aba55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739239505698:android:2351eddbc758161405ff7b",
+        "android_client_info": {
+          "package_name": "com.test.newstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739239505698-3k2qq0l5u8fugkvv0cgehftgcd6iup8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE-YYV2RdZkLjeDLPYFUj_23nNFrzUwu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739239505698-3k2qq0l5u8fugkvv0cgehftgcd6iup8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

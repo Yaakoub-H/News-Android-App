@@ -1,0 +1,10 @@
+{
+  "articles": [
+     {  "title": "The Concept of Freedom",  "thumb": "thumb7.jpg",   "date": "2023-02-03",    "content": "The concept of freedom has been a topic of philosophical inquiry for centuries. This article explores the definition of freedom and its role in our lives. It discusses the ways in which individuals experience freedom and the extent to which freedom is influenced by external factors. The article also considers the relationship between freedom and responsibility and the moral implications of the exercise of freedom."  },
+    {  "title": "Existentialism and the Human Condition", "thumb": "thumb2.jpg",   "date": "2023-02-04",    "content": "Existentialism is a philosophical movement that emphasizes the individual's experience and perspective in understanding the human condition. It suggests that individuals must create their own meaning and purpose in life, rather than rely on external sources. The article explores the key ideas and thinkers in the existentialist tradition, as well as its impact on art, literature, and popular culture."  },
+      {  "title": "The Ethics of Responsibility",   "thumb": "thumb3.jpg",  "date": "2023-02-01",    "content": "The concept of responsibility is central to philosophical debates about ethics and morality. This article discusses the various theories of responsibility, including the notion of moral responsibility and the role of intention in determining responsibility. It also examines the relationship between responsibility and freedom, and considers the implications of accepting or rejecting responsibility for one's actions."  },
+    {   "title": "The Nature of Reality",  "thumb": "thumb4.jpg",  "date": "2023-02-02",   "content": "Philosophers have long debated the nature of reality and our perception of it. This article explores different philosophical perspectives on the nature of reality, including idealism, materialism, and relativism. It also examines the relationship between perception and reality, and the implications of these debates for our understanding of the world around us."  }
+
+
+  ]
+}
